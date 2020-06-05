@@ -1,4 +1,4 @@
-# .NetDevelope
+# .NetDevelop
 For learning and more and more insisting.
 
 2020-06-05  
